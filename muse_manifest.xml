@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mazzuoccola.com" resolutions="1x" timestamp="1500079073937">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mazzuoccola.com" resolutions="1x" timestamp="1501023792882">
   <folder name="css">
     <file name="site_global.css" crc="487116883"/>
-    <file name="index.css" crc="4274904317" ref="index"/>
+    <file name="index.css" crc="4091944403" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,5 +16,5 @@
     <file name="kyrie_robinson_n8641_crop32_hi_res_duotone.png" crc="3774635787" seo="true" ref="index"/>
     <file name="sunrays.jpg" crc="387606788" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3760798655" seo="true" mt="1500079041901" redirect="true"/>
+  <file name="index.html" crc="496379101" seo="true" mt="1501023763335" redirect="true"/>
 </manifest>
